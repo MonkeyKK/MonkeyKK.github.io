@@ -1,12 +1,12 @@
 # Site settings
 title: MonkeyKK
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: MonkeyKK的博客 | MonkeyKK Blog
 header-img: img/home-bg.jpg
 email: 
 description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "MonkeyKK"
+url: "https://monkeykk.github.io/"              # your host, for absolute URL
+baseurl: "/monkeykk.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
