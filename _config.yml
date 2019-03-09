@@ -6,7 +6,7 @@ email:
 description: ""
 keyword: "MonkeyKK"
 url: "https://monkeykk.github.io/"              # your host, for absolute URL
-baseurl: "/monkeykk.github.io"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
